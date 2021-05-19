@@ -1,2 +1,2 @@
 # Machine-Learning-for-Tourist-Accommodation
-Machine Learning Application for Tourist Accommodation: Prediction of Booking Cancellations of and Average Daily Rate. (From now everything in Spanish)
+Machine Learning Application for Tourist Accommodation: Prediction of Hotel Booking Cancellations and Average Daily Rate. (From now everything in Spanish)
